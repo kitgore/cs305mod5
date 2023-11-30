@@ -1,6 +1,5 @@
 # cs305mod5
 
-
 ## New Module: Basic Logger
 ### Overview
 Introducing the Basic Logger module - a straightforward and efficient way to add logging capabilities to our project. 
